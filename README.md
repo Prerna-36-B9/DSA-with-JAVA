@@ -3,7 +3,7 @@
 This repository contains my Data Structures & Algorithms practice using Java.
 
 ## Topics Covered
-Flow Charts Pseudo Codes Variable And Data Type
+- Flow Charts Pseudo Codes Variable And Data Type
 - Operators
 - Conditional Statements
 - Loops
